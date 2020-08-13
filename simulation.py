@@ -1,5 +1,5 @@
-# ARIN710001 - Reinforcement Learning, Assignment 6
-# Miika Toikkanen 2020223166
+# Reinforcement Learning
+# Miika Toikkanen
 
 '''
 The environment is represented as matrix of rewards with dimension (state, action).
